@@ -18,9 +18,9 @@ print(b.index(2))
 print(b.index(1))
 
 # update item at index 2
-b[2] = 6
+b[3] = -1
 print(b)
 
 # update item at index 4
-b[4] = 8
+b[0] = 8
 print(b)
